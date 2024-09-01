@@ -89,6 +89,3 @@ new_list.add_at_position('position',2)
 new_list.delete_at_position(2)
 new_list.reverse()
 new_list.display()
-
-
-        
